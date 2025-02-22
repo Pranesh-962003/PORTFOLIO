@@ -77,11 +77,11 @@ export const experience = [
     {
         company:'Cognifyz',
         role:'FrontEnd Developer',
-        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur illum nam, et quas placeat magnam, quaerat voluptatibus, autem nisi blanditiis temporibus reiciendis. Facere dignissimos quibusdam unde nisi blanditiis, amet eveniet!'
+        des:'I worked at Cognifyz Technology for six months, completing various web development tasks using HTML, CSS, and JavaScript. During my time there, I gained hands-on experience in front-end development, improving website designs, responsiveness, and functionality. I collaborated on projects that enhanced user experience and performance. This experience strengthened my skills in building interactive and visually appealing web applications.'
     },
     {
         company:'Inpro Solution',
-        role:'FrontEnd Developer',
+        role:'MERN Developer',
         des:'I worked at Inpro Solution for six months, developing and managing projects using the MERN stack (MongoDB, Express.js, React.js, Node.js). My role involved designing scalable web applications, optimizing performance, and integrating advanced features. I collaborated with teams to build dynamic and user-friendly solutions, ensuring seamless functionality. This experience strengthened my expertise in full-stack development, database management.'
     },
 ]
