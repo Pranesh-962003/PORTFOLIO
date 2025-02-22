@@ -82,6 +82,6 @@ export const experience = [
     {
         company:'Inpro Solution',
         role:'FrontEnd Developer',
-        des:'I worked at Inpro Solution for six years, developing and managing projects using the MERN stack (MongoDB, Express.js, React.js, Node.js). My role involved designing scalable web applications, optimizing performance, and integrating advanced features. I collaborated with teams to build dynamic and user-friendly solutions, ensuring seamless functionality. This experience strengthened my expertise in full-stack development, database management.'
+        des:'I worked at Inpro Solution for six months, developing and managing projects using the MERN stack (MongoDB, Express.js, React.js, Node.js). My role involved designing scalable web applications, optimizing performance, and integrating advanced features. I collaborated with teams to build dynamic and user-friendly solutions, ensuring seamless functionality. This experience strengthened my expertise in full-stack development, database management.'
     },
 ]
